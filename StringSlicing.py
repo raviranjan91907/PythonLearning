@@ -52,3 +52,5 @@ print("hello hello".count("lo", 0, 5))
 print("Hello".count("h") )
 print("aaa".count("aa") )# 1 (not 2)
 print("apple applebanana".count("apple")) #(return 2 not 1)
+
+
