@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fce20d91-5baf-4c66-a7a7-8230b7a2a5f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/If_Elif_Else.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileIO.py" beforeDir="false" afterPath="$PROJECT_DIR$/FileIO/FileIO.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FileIO/sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/ForLoop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/globalLocalAndGlobalKeyword.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileIO/FileIO.py" beforeDir="false" afterPath="$PROJECT_DIR$/FileIO/FileIO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If_Elif_Else.py" beforeDir="false" afterPath="$PROJECT_DIR$/If_Elif_Else.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brainStromingQuestions.py" beforeDir="false" afterPath="$PROJECT_DIR$/brainStromingQuestions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +44,15 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.DictionaryAndItFunction.executor": "Run",
     "Python.FileIO.executor": "Run",
+    "Python.ForLoop.executor": "Run",
+    "Python.If_Elif_Else.executor": "Run",
     "Python.List.executor": "Run",
     "Python.StringSlicing.executor": "Run",
     "Python.brainStromingQuestions.executor": "Run",
     "Python.commentAndEscapeCharacter.executor": "Run",
     "Python.functionAndDocString.executor": "Run",
     "Python.functionAndDoctype.executor": "Run",
+    "Python.globalLocalAndGlobalKeyword.executor": "Run",
     "Python.main.executor": "Run",
     "Python.set.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
@@ -70,39 +76,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\OneDrive\Desktop\PythonLearning\FileIO" />
       <recent name="C:\Users\HP\OneDrive\Desktop\PythonLearning" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.set" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -128,7 +104,12 @@
       <workItem from="1774371663027" duration="1576000" />
       <workItem from="1774407885246" duration="6289000" />
       <workItem from="1774430419469" duration="15000" />
-      <workItem from="1774438319471" duration="1211000" />
+      <workItem from="1774438319471" duration="2727000" />
+      <workItem from="1774455110627" duration="2373000" />
+      <workItem from="1774498531931" duration="3792000" />
+      <workItem from="1774539219949" duration="1481000" />
+      <workItem from="1774765710278" duration="80000" />
+      <workItem from="1774765804484" duration="2128000" />
     </task>
     <servers />
   </component>
@@ -136,15 +117,18 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonLearning$functionAndDoctype.coverage" NAME="functionAndDoctype Coverage Results" MODIFIED="1774409815174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonLearning$List.coverage" NAME="List Coverage Results" MODIFIED="1774439072636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonLearning$brainStromingQuestions.coverage" NAME="brainStromingQuestions Coverage Results" MODIFIED="1774407939116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonLearning$set.coverage" NAME="set Coverage Results" MODIFIED="1774407930297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearning$ForLoop.coverage" NAME="ForLoop Coverage Results" MODIFIED="1774499724324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops" />
+    <SUITE FILE_PATH="coverage/PythonLearning$brainStromingQuestions.coverage" NAME="brainStromingQuestions Coverage Results" MODIFIED="1774498600758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearning$main.coverage" NAME="main Coverage Results" MODIFIED="1774180085893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearning$DictionaryAndItFunction.coverage" NAME="DictionaryAndItFunction Coverage Results" MODIFIED="1774294122333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearning$StringSlicing.coverage" NAME="StringSlicing Coverage Results" MODIFIED="1774329555183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonLearning$FileIO.coverage" NAME="FileIO Coverage Results" MODIFIED="1774417513852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearning$functionAndDocString.coverage" NAME="functionAndDocString Coverage Results" MODIFIED="1774410478300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearning$commentAndEscapeCharacter.coverage" NAME="commentAndEscapeCharacter Coverage Results" MODIFIED="1774184966483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearning$functionAndDoctype.coverage" NAME="functionAndDoctype Coverage Results" MODIFIED="1774409815174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearning$List.coverage" NAME="List Coverage Results" MODIFIED="1774439072636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearning$set.coverage" NAME="set Coverage Results" MODIFIED="1774498558974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearning$If_Elif_Else.coverage" NAME="If_Elif_Else Coverage Results" MODIFIED="1774440911926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearning$FileIO.coverage" NAME="FileIO Coverage Results" MODIFIED="1774765878664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FileIO" />
+    <SUITE FILE_PATH="coverage/PythonLearning$globalLocalAndGlobalKeyword.coverage" NAME="globalLocalAndGlobalKeyword Coverage Results" MODIFIED="1774767811100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

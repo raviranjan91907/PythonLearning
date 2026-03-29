@@ -51,3 +51,27 @@ print("-------------------------------------------------------")
 f=open("sample.txt", "rt")
 print(f.readlines()) #this function will read the content of the file and store it in a list
 f.close()
+
+
+print("-------------------------------------------------------")
+f=open("sample.txt")
+print(f.tell()) # This will return the current position of the point
+print(f.readline())
+print(f.tell())
+print(f.readline())
+print(f.tell())
+f.close()
+
+print("-------------------------------------------------------")
+
+f=open("Sample.txt")
+f.seek(11)
+print(f.tell())
+print(f.readline())
+print(f.tell())
+f.close()
+
+print("-------------------------------------------------------")
+with open("Sample.txt") as f:
+    a=f.read(3)
+    print(a)
