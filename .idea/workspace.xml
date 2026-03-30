@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fce20d91-5baf-4c66-a7a7-8230b7a2a5f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Loops/ForLoop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/globalLocalAndGlobalKeyword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LambdaFunctions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileIO/FileIO.py" beforeDir="false" afterPath="$PROJECT_DIR$/FileIO/FileIO.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/If_Elif_Else.py" beforeDir="false" afterPath="$PROJECT_DIR$/If_Elif_Else.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/ForLoop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Loops/ForLoop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/brainStromingQuestions.py" beforeDir="false" afterPath="$PROJECT_DIR$/brainStromingQuestions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +107,7 @@
       <workItem from="1774498531931" duration="3792000" />
       <workItem from="1774539219949" duration="1481000" />
       <workItem from="1774765710278" duration="80000" />
-      <workItem from="1774765804484" duration="2128000" />
+      <workItem from="1774765804484" duration="7708000" />
     </task>
     <servers />
   </component>
@@ -117,8 +115,8 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonLearning$ForLoop.coverage" NAME="ForLoop Coverage Results" MODIFIED="1774499724324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops" />
-    <SUITE FILE_PATH="coverage/PythonLearning$brainStromingQuestions.coverage" NAME="brainStromingQuestions Coverage Results" MODIFIED="1774498600758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearning$ForLoop.coverage" NAME="ForLoop Coverage Results" MODIFIED="1774773915596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops" />
+    <SUITE FILE_PATH="coverage/PythonLearning$brainStromingQuestions.coverage" NAME="brainStromingQuestions Coverage Results" MODIFIED="1774773586170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearning$main.coverage" NAME="main Coverage Results" MODIFIED="1774180085893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearning$DictionaryAndItFunction.coverage" NAME="DictionaryAndItFunction Coverage Results" MODIFIED="1774294122333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearning$StringSlicing.coverage" NAME="StringSlicing Coverage Results" MODIFIED="1774329555183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
