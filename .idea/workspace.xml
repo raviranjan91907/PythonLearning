@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fce20d91-5baf-4c66-a7a7-8230b7a2a5f5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/timeModule.py" beforeDir="false" afterPath="$PROJECT_DIR$/timeModule.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,43 +34,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.DictionaryAndItFunction.executor": "Run",
-    "Python.FileIO.executor": "Run",
-    "Python.ForLoop.executor": "Run",
-    "Python.If_Elif_Else.executor": "Run",
-    "Python.List.executor": "Run",
-    "Python.StringSlicing.executor": "Run",
-    "Python.argsAndKargs.executor": "Run",
-    "Python.brainStromingQuestions.executor": "Run",
-    "Python.commentAndEscapeCharacter.executor": "Run",
-    "Python.functionAndDocString.executor": "Run",
-    "Python.functionAndDoctype.executor": "Run",
-    "Python.globalLocalAndGlobalKeyword.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.set.executor": "Run",
-    "Python.timeModule.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "advanced.settings",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.DictionaryAndItFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileIO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.If_Elif_Else.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StringSlicing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.argsAndKargs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.brainStromingQuestions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.commentAndEscapeCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.functionAndDocString.executor&quot;: &quot;Run&quot;,
+    &quot;Python.functionAndDoctype.executor&quot;: &quot;Run&quot;,
+    &quot;Python.globalLocalAndGlobalKeyword.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.timeModule.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\HP\OneDrive\Desktop\PythonLearning\FileIO" />
@@ -112,6 +111,9 @@
       <workItem from="1774891469125" duration="5621000" />
       <workItem from="1774976640024" duration="681000" />
       <workItem from="1774984485378" duration="1407000" />
+      <workItem from="1775064036254" duration="73000" />
+      <workItem from="1775116757175" duration="940000" />
+      <workItem from="1775235828491" duration="371000" />
     </task>
     <servers />
   </component>
